@@ -46,7 +46,16 @@ git checkout master
 git merge upstream/master
 ```
 
-If there are no unique commits on the local master branch, git will simply perform a fast-forward. However, if you have been making changes on master (in the vast majority of cases you probably shouldn't be - [see the next section](#doing-your-work), you may have to deal with conflicts. When doing so, be careful to respect the changes made upstream.
+
+## Merging Conflicts
+
+
+If there are no unique commits on the local master branch, git will simply perform a fast-forward. However, if you have been making changes on master (in the vast majority of cases you probably shouldn't be), you may have to deal with conflicts. When doing so, be careful to respect the changes made upstream.
+
+If you are using a tool like Git Desktop or Tortoise Git, you should be able to deal with merge conflicts relatively easily.
+
+This link gives some helpful hints for dealing with merge conflicts from the command line:
+https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/
 
 Now, your local master branch is up-to-date with everything modified upstream.
 
