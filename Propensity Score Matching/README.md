@@ -1,0 +1,1 @@
+The dataset used in this lesson is from an NIH study made publically available by UFHealth Biostatistics Open Learning Textbook (http://bolt.mph.ufl.edu/2012/08/02/learn-by-doing-exploring-a-dataset/). In these notebooks the dataset has been altered. It has been artificially biased for the purposes of teaching propensity score matching.

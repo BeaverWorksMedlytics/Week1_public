@@ -1,0 +1,110 @@
+,Hospt,Treat,Outcome,AcuteT,Age,Gender
+0,1,Lithium,Recurrence,207,33,1
+1,1,Imipramine,No Recurrence,217,49,1
+2,1,Imipramine,No Recurrence,219,50,1
+3,1,Lithium,Recurrence,214,29,2
+4,1,Lithium,No Recurrence,63,29,1
+5,1,Placebo,No Recurrence,29,30,2
+6,1,Lithium,No Recurrence,55,56,1
+7,1,Placebo,No Recurrence,97,48,1
+8,1,Placebo,No Recurrence,162,22,2
+9,1,Placebo,No Recurrence,105,61,2
+10,1,Imipramine,No Recurrence,231,58,1
+11,1,Imipramine,No Recurrence,200,31,1
+12,1,Imipramine,No Recurrence,229,44,1
+13,1,Imipramine,Recurrence,236,55,2
+14,1,Lithium,No Recurrence,197,57,2
+15,1,Lithium,Recurrence,237,46,1
+16,1,Imipramine,No Recurrence,203,58,1
+17,1,Lithium,No Recurrence,194,57,1
+18,2,Lithium,Recurrence,195,54,1
+19,2,Lithium,No Recurrence,48,23,1
+20,2,Imipramine,No Recurrence,246,65,1
+21,2,Imipramine,Recurrence,190,27,1
+22,2,Lithium,Recurrence,209,50,1
+23,2,Lithium,Recurrence,249,41,2
+24,2,Placebo,No Recurrence,129,65,1
+25,2,Placebo,Recurrence,208,52,1
+26,2,Placebo,No Recurrence,200,60,1
+27,2,Placebo,Recurrence,241,25,2
+28,2,Imipramine,Recurrence,237,27,2
+29,2,Imipramine,No Recurrence,236,32,1
+30,2,Imipramine,Recurrence,226,43,2
+31,2,Placebo,No Recurrence,165,20,2
+32,2,Lithium,No Recurrence,239,23,2
+33,2,Imipramine,No Recurrence,235,36,2
+34,2,Imipramine,No Recurrence,219,22,2
+35,3,Lithium,No Recurrence,274,49,2
+36,3,Imipramine,No Recurrence,215,40,2
+37,3,Lithium,Recurrence,194,54,2
+38,3,Lithium,Recurrence,225,26,1
+39,3,Imipramine,No Recurrence,201,48,1
+40,3,Lithium,Recurrence,194,51,2
+41,3,Placebo,Recurrence,238,35,2
+42,3,Placebo,Recurrence,219,28,1
+43,3,Placebo,Recurrence,198,23,1
+44,3,Placebo,Recurrence,218,57,2
+45,5,Lithium,Recurrence,246,47,1
+46,5,Imipramine,No Recurrence,236,31,2
+47,5,Lithium,Recurrence,249,27,1
+48,5,Imipramine,No Recurrence,208,61,1
+49,5,Placebo,Recurrence,194,60,1
+50,5,Lithium,Recurrence,213,28,1
+51,5,Placebo,Recurrence,239,36,1
+52,5,Placebo,No Recurrence,140,29,1
+53,5,Lithium,No Recurrence,110,34,1
+54,5,Imipramine,No Recurrence,196,49,1
+55,5,Imipramine,No Recurrence,216,45,1
+56,5,Lithium,Recurrence,234,28,1
+57,5,Placebo,No Recurrence,162,24,2
+58,5,Placebo,Recurrence,233,33,2
+59,5,Imipramine,No Recurrence,233,34,1
+60,5,Imipramine,No Recurrence,222,60,1
+61,5,Imipramine,No Recurrence,220,23,2
+62,5,Lithium,No Recurrence,139,35,1
+63,5,Placebo,Recurrence,238,45,1
+64,5,Lithium,No Recurrence,105,46,1
+65,5,Lithium,No Recurrence,160,38,2
+66,5,Placebo,No Recurrence,146,32,2
+67,5,Placebo,No Recurrence,187,33,1
+68,5,Imipramine,Recurrence,216,52,1
+69,5,Lithium,No Recurrence,146,50,2
+70,5,Imipramine,No Recurrence,230,38,1
+71,5,Lithium,Recurrence,243,47,1
+72,5,Imipramine,Recurrence,225,23,1
+73,5,Imipramine,No Recurrence,214,31,1
+74,5,Placebo,Recurrence,228,55,1
+75,5,Placebo,No Recurrence,147,39,1
+76,5,Placebo,Recurrence,214,41,1
+77,5,Imipramine,No Recurrence,207,62,2
+78,5,Placebo,No Recurrence,261,50,2
+79,5,Lithium,Recurrence,231,46,1
+80,5,Imipramine,No Recurrence,215,33,2
+81,5,Placebo,No Recurrence,476,22,1
+82,5,Lithium,No Recurrence,441,37,2
+83,6,Lithium,Recurrence,200,40,2
+84,6,Lithium,No Recurrence,201,22,1
+85,6,Imipramine,Recurrence,200,30,2
+86,6,Lithium,Recurrence,235,63,2
+87,6,Imipramine,No Recurrence,219,40,1
+88,6,Lithium,Recurrence,202,23,1
+89,6,Imipramine,Recurrence,240,52,1
+90,6,Placebo,Recurrence,240,23,1
+91,6,Placebo,Recurrence,216,22,2
+92,6,Placebo,Recurrence,231,23,1
+93,6,Placebo,No Recurrence,139,30,2
+94,6,Imipramine,No Recurrence,211,26,2
+95,6,Lithium,Recurrence,212,46,1
+96,6,Placebo,Recurrence,242,61,1
+97,6,Imipramine,Recurrence,247,30,2
+98,6,Imipramine,No Recurrence,222,39,1
+99,6,Imipramine,No Recurrence,216,49,1
+100,6,Lithium,Recurrence,199,57,1
+101,6,Lithium,Recurrence,217,51,1
+102,6,Lithium,Recurrence,230,53,1
+103,6,Placebo,Recurrence,245,31,1
+104,6,Placebo,Recurrence,242,43,1
+105,6,Placebo,No Recurrence,84,29,1
+106,6,Imipramine,Recurrence,207,28,1
+107,6,Imipramine,Recurrence,232,51,1
+108,6,Lithium,Recurrence,204,33,1
